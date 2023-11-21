@@ -1,6 +1,6 @@
 ## Hey, nice to see you
 
-I’m Stipica, Fullstack developer currently living in 🇩🇪 Essen, Germany.
+I’m Stipica, Fullstack developer currently living in Essen, Germany.
 
 
 
